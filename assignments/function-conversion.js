@@ -1,3 +1,6 @@
+
+console.log(`\n\n\n\nFUNCTION-CONVERSION.JS PAGE vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv\n`)
+
 // Take the commented ES5 syntax and convert it to ES6 arrow Syntax
 
 
